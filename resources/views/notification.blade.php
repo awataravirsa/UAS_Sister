@@ -18,7 +18,7 @@
 </div>
 @endforeach
 @else
-@foreach ($filtered as $item)
+@foreach ($collection as $item)
 <div class="border-bottom">
     <table>
         <p>
